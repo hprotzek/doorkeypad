@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "bgiot_Prusa-Firmware",
+			"path": "/Users/holger/src/bgiot_Prusa-Firmware"
+		},
+		{
+			"name": "Keypad",
+			"path": "/Users/holger/Documents/PlatformIO/Projects/Keypad"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.osx": {
+			"PATH": "/Users/holger/.platformio/penv/bin:/Users/holger/.platformio/penv:/Users/holger/.rbenv/shims:/Users/holger/.pyenv/shims:/Users/holger/.rbenv/shims:/Users/holger/.pyenv/bin:/Users/holger/go/bin:/Users/holger/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/holger/usr/local/kubebuilder/bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
